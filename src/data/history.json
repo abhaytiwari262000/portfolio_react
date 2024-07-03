@@ -1,0 +1,22 @@
+[
+  
+  {
+    "role": "Associate Software Developer",
+    "organisation": "Mphasis",
+    "startDate": "June, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on a talent acquisition portal", "Helped  design and implement the portal"],
+    "imageSrc": "history/mphasis.jpeg"
+  },
+  {
+    "role": "Samsung Prism Intern",
+    "organisation": "Samsung Prism",
+    "startDate": "Dec, 2021",
+    "endDate": "April, 2022",
+    "experiences": [
+      "Worked on a Personal Information Identifier website with a team of students and teachers to detect and encrypt sensitive user data",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/samsung.jpeg"
+  }
+]
